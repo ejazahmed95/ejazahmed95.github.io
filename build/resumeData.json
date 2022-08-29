@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Ejaz Ahmed",
+    "occupation": "Game Developer",
+    "description": "I love to write clean code, develop tools to enhance team productivity, and architect code for complex systems. I have over 2 years of experience in game development, and about 2 years of experience as a full stack developer for web/mobile apps",
+    "image": "profilepic.jpg",
+    "bio": "",
+    "contactmessage": "",
+    "email": "ejazahmed0195@gmail.com",
+    "phone": "XXX-XXX-XXXX",
+    "address": {
+      "street": "",
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "zip": ""
+    },
+    "website": "https://www.ejaz.info",
+    "resumedownload": "http://www.ejaz.info",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ejazahmed95/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Short write up of skills",
+    "education": [
+      {
+        "school": "University of Utah",
+        "degree": "Master of Entertainment Arts and Engineering",
+        "graduated": "April 2023",
+        "description": ""
+      },
+      {
+        "school": "Indian Institute of Technology, Hyderabad",
+        "degree": "Bachelors in Computer Science & Engineering",
+        "graduated": "May 2016",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "The Therapeutic Games and Apps Lab",
+        "title": "Gradudate Research Assistant",
+        "years": "Aug 2021 - Present",
+        "description": ""
+      },
+      {
+        "company": "Epic Games",
+        "title": "Gameplay Programmer Intern",
+        "years": "May 2022 - Aug 2022",
+        "description": ""
+      },
+      {
+        "company": "GetMega",
+        "title": "Game Developer",
+        "years": "Jan 2020 - Jul 2021",
+        "description": ""
+      },
+      {
+        "company": "Mech Mocha",
+        "title": "Senior Product Engineer",
+        "years": "Dec 2018 - Jan 2020",
+        "description": ""
+      },
+      {
+        "company": "Walmart Labs",
+        "title": "Software Engineer",
+        "years": "Aug 2016 - Jun 2018",
+        "description": ""
+      },
+      {
+        "company": "Amazon",
+        "title": "Software Developer Intern",
+        "years": "May 2015 - Jul 2015",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Unity",
+        "level": "90%"
+      },
+      {
+        "name": "Unreal Engine",
+        "level": "50%"
+      },
+      {
+        "name": "LibGDX",
+        "level": "80%"
+      },
+      {
+        "name": "Golang",
+        "level": "90%"
+      },
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "Kotlin",
+        "level": "80%"
+      },
+      {
+        "name": "C#",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Get to know me!",
+        "category": "Online Multiplayer Game",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
