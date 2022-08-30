@@ -1,10 +1,11 @@
 {
   "main": {
     "name": "Ejaz Ahmed",
+    "phonetics": "E Jaz",
     "occupation": "Game Developer",
     "description": "I love to write clean code, develop tools to enhance team productivity, and architect code for complex systems. I have over 2 years of experience in game development, and about 2 years of experience as a full stack developer for web/mobile apps",
     "image": "profilepic.jpg",
-    "bio": "",
+    "bio": "I'm a masters student in Entertainment Arts and Engineering at the University of Utah. I did my bachelors in Computer Science from Indian Institute of Technology(IIT). I started my career as a web developer, then full stack, and finally found my dream role as a game developer. I like to do occasional treks, travel with friends, play games, and watch anime/tv series.",
     "contactmessage": "",
     "email": "ejazahmed0195@gmail.com",
     "phone": "XXX-XXX-XXXX",
@@ -15,7 +16,7 @@
       "zip": ""
     },
     "website": "https://www.ejaz.info",
-    "resumedownload": "http://www.ejaz.info",
+    "resumedownload": "https://drive.google.com/file/d/1gg0Unv5PCz5jvyh_bUQRNLA_4-lVDMxi/view?usp=sharing",
     "social": [
       {
         "name": "twitter",
@@ -29,13 +30,27 @@
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "http://instagram.com/ejazahmed95",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "http://github.com/ejazahmed95",
         "className": "fa fa-github"
+      }
+    ],
+    "favouriteGames": [
+      {
+        "name": "Horizon Zero Dawn",
+        "reason": "Horizon Zero Dawn is the game that pulled me into seeking game development as a profession. Its excellent and unique combat system made me realize that this is all written by programmers and something that I can do. I like horizon for its exceptionally immersive storyline."
+      },
+      {
+        "name": "Don't Starve Together",
+        "reason": "DST is a multiplayer survival game. I've never survived for an year in my umpteen different attempts, but its been fun everytime. There are so many strategies to explore. I end up researching a ton of stuff after every playthrough"
+      },
+      {
+        "name": "Portal 2",
+        "reason": "Portal 2 has amazing puzzles that revolve around essentially just one mechanic, open portals. It is an excellent example of environmental design."
       }
     ]
   },
@@ -127,10 +142,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Get to know me!",
-        "category": "Online Multiplayer Game",
-        "image": "",
-        "url": ""
+        "title": "Carrom",
+        "category": "Online Multiplayer Game (Developed for GetMega)",
+        "image": "carrom.webp",
+        "url": "https://www.getmega.com/casual/carrom/"
+      },
+      {
+        "title": "Go Pool",
+        "category": "Online Multiplayer Game(Developed for GetMega)",
+        "image": "gopool.webp",
+        "url": "https://www.getmega.com/casual/8-ball-pool/"
+      },
+      {
+        "title": "Warship",
+        "category": "Online Multiplayer Game(Developed for GetMega)",
+        "image": "warship.webp",
+        "url": "https://www.getmega.com/casual/warship/"
+      },
+      {
+        "title": "Dots & Dash",
+        "category": "Online Multiplayer Game(Developed for GetMega)",
+        "image": "dots-dash.webp",
+        "url": "https://www.getmega.com/casual/dots-dash/"
       }
     ]
   },

@@ -14,6 +14,10 @@ class About extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
+      var favGames = this.props.data.favouriteGames.map(function(education){
+         return <div key={education.name}><h2>{education.name}</h2>
+         <p>{education.reason}</p></div>
+       });
     }
 
     return (
@@ -42,6 +46,20 @@ class About extends Component {
                   <p>
                      <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
+               </div>
+            </div>
+         </div>
+      </div>
+      
+      <div className="row education">
+         <div className="three columns header-col">
+            <h2><span>Favourite Games</span></h2>
+         </div>
+
+         <div className="nine columns main-col">
+            <div className="row item">
+               <div className="twelve columns">
+                 {favGames}
                </div>
             </div>
          </div>
