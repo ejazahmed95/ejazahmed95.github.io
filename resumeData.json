@@ -155,7 +155,8 @@
         "description": "This is a digital version of the board game othello. Players surround the opponent coins to capture them. The player with highest captured positions wins the game. Command pattern is used to implement the UNDO and REDO. State management for each turn is done using a simple enum state machine",
         "credits": {
           "time": "8 Hours",
-          "engine": "Unity 2021.3"
+          "engine": "Unity 2021.3",
+          "docLink": "https://drive.google.com/file/d/1nHnVKA4514AS-PIN4ChP1_klIfu2g2EJ/view?usp=share_link"
         }
       },
       {
@@ -169,10 +170,11 @@
             "description": "gameplay"
           }
         ],
-        "description": "This was developed as a part of game jam",
+        "description": "This was developed as a part of game jam. In this game, the players pick numbers and drop into operational buckets that either add/subtract/multiply or divide the numbers. They gain points when these numbers match the numbers of garbage(Red) areas. The goal is to <b>achieve the highest score</b> within the given time limit.",
         "credits": {
           "time": "5 Hours",
-          "engine": "Unity 2021.3"
+          "engine": "Unity 2021.3",
+          "docLink": "https://drive.google.com/file/d/1KVmSUNhA-4IyoZJQ8fus8U6WVsXmaalv/view?usp=share_link"
         }
       },
       {
@@ -186,10 +188,11 @@
             "description": "gameplay"
           }
         ],
-        "description": "This is a procedural maze generation algorithm. It used a new hex coordinate system using the axial coordinates",
+        "description": "This is a procedural maze generation algorithm. It uses a new hex coordinate system using the axial coordinates. Player can defeat enemies in each rooms and reach the final area. A new maze gets generated when the player reaches the final room",
         "credits": {
-          "time": "8 Hours",
-          "engine": "Unity 2021.3"
+          "time": "40 Hours",
+          "engine": "Unity 2021.3",
+          "docLink": "https://drive.google.com/file/d/1dso97Qxc7QA9G__ZxKZ8L3MdPE6vhF3Q/view?usp=share_link"
         }
       },
       {
@@ -203,10 +206,11 @@
             "description": "gameplay"
           }
         ],
-        "description": "This is a metroidvania game.",
+        "description": "This is a classic metroidvania game. The player starts with basic platformer abilities and limited areas to explore. Through the journey, they unlock abilities like Double Jump, WallClimbing, and Dash. With each defeated boss enemies, more areas get unlocked for the player to explore. Collect coins to reach some more hidden areas.",
         "credits": {
-          "time": "8 Hours",
-          "engine": "Unity 2021.3"
+          "time": "40 Hours",
+          "engine": "Unity 2021.3",
+          "docLink": "https://drive.google.com/file/d/1oiaQncY_EZPMLEiMyzoXT1ux9k5AiiMC/view?usp=share_link"
         }
       }
     ],
