@@ -140,6 +140,76 @@
     ]
   },
   "portfolio": {
+    "game_projects": [
+      {
+        "title": "Digital Othello",
+        "screenshots": [
+          "images/projects/othello.png"
+        ],
+        "videos": [ 
+          {
+            "link": "videos/projects/othello.mp4",
+            "description": "gameplay"
+          }
+        ],
+        "description": "This is a digital version of the board game othello. Players surround the opponent coins to capture them. The player with highest captured positions wins the game. Command pattern is used to implement the UNDO and REDO. State management for each turn is done using a simple enum state machine",
+        "credits": {
+          "time": "8 Hours",
+          "engine": "Unity 2021.3"
+        }
+      },
+      {
+        "title": "Numbers Munchers",
+        "screenshots": [
+          "images/game_projects/test.png"
+        ],
+        "videos": [ 
+          {
+            "link": "videos/intro.mp4",
+            "description": "gameplay"
+          }
+        ],
+        "description": "This is a digital version of the board game othello.",
+        "credits": {
+          "time": "8 Hours",
+          "engine": "Unity 2021.3"
+        }
+      },
+      {
+        "title": "Fia Maze",
+        "screenshots": [
+          "images/game_projects/test.png"
+        ],
+        "videos": [ 
+          {
+            "link": "videos/intro.mp4",
+            "description": "gameplay"
+          }
+        ],
+        "description": "This is a digital version of the board game othello.",
+        "credits": {
+          "time": "8 Hours",
+          "engine": "Unity 2021.3"
+        }
+      },
+      {
+        "title": "Mini Knight",
+        "screenshots": [
+          "images/game_projects/test.png"
+        ],
+        "videos": [ 
+          {
+            "link": "videos/intro.mp4",
+            "description": "gameplay"
+          }
+        ],
+        "description": "This is a digital version of the board game othello.",
+        "credits": {
+          "time": "8 Hours",
+          "engine": "Unity 2021.3"
+        }
+      }
+    ],
     "projects": [
       {
         "title": "Carrom",

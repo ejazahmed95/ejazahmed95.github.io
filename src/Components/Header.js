@@ -24,6 +24,7 @@ class Header extends Component {
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
+            <li><a className="smoothscroll" href="#gameProjects">Projects</a></li>
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Works</a></li>
             {/* <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li> */}
@@ -31,6 +32,11 @@ class Header extends Component {
          </ul>
 
       </nav>
+
+      <video width="640" height="480" autoPlay controls>
+         <source src="videos/intro.mp4" type="video/mp4"/>
+         Your browser does not support the video tag.
+      </video>
 
       <div className="row banner">
          <div className="banner-text">
