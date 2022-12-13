@@ -140,6 +140,76 @@
     ]
   },
   "portfolio": {
+    "game_projects": [
+      {
+        "title": "Digital Othello",
+        "screenshots": [
+          "images/projects/othello.png"
+        ],
+        "videos": [ 
+          {
+            "link": "videos/projects/othello.mp4",
+            "description": "gameplay"
+          }
+        ],
+        "description": "This is a digital version of the board game othello. Players surround the opponent coins to capture them. The player with highest captured positions wins the game. Command pattern is used to implement the UNDO and REDO. State management for each turn is done using a simple enum state machine",
+        "credits": {
+          "time": "8 Hours",
+          "engine": "Unity 2021.3"
+        }
+      },
+      {
+        "title": "Numbers Munchers",
+        "screenshots": [
+          "images/projects/gamejam.jpg"
+        ],
+        "videos": [ 
+          {
+            "link": "videos/projects/gamejam.mp4",
+            "description": "gameplay"
+          }
+        ],
+        "description": "This was developed as a part of game jam",
+        "credits": {
+          "time": "5 Hours",
+          "engine": "Unity 2021.3"
+        }
+      },
+      {
+        "title": "Fia Maze",
+        "screenshots": [
+          "images/projects/pcg.jpg"
+        ],
+        "videos": [ 
+          {
+            "link": "videos/projects/fiamaze.mp4",
+            "description": "gameplay"
+          }
+        ],
+        "description": "This is a procedural maze generation algorithm. It used a new hex coordinate system using the axial coordinates",
+        "credits": {
+          "time": "8 Hours",
+          "engine": "Unity 2021.3"
+        }
+      },
+      {
+        "title": "Mini Knight",
+        "screenshots": [
+          "images/projects/miniknight.png"
+        ],
+        "videos": [ 
+          {
+            "link": "videos/projects/miniknight.mp4",
+            "description": "gameplay"
+          }
+        ],
+        "description": "This is a metroidvania game.",
+        "credits": {
+          "time": "8 Hours",
+          "engine": "Unity 2021.3"
+        }
+      }
+    ],
     "projects": [
       {
         "title": "Carrom",

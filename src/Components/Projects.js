@@ -16,11 +16,11 @@ class Projects extends Component {
 
             <div className = "row">
               <div className="six columns main-col">
-                <img src="images/projects/othello.png" width="640" height="480"/>
+                <img src={project.screenshots[0]} width="640" height="480"/>
               </div>
               <div className="six columns main-col">
                 <video width="640" height="480" autoPlay controls>
-                  <source src="videos/intro.mp4" type="video/mp4"/>
+                  <source src={project.videos[0].link} type="video/mp4"/>
                   Your browser does not support the video tag.
                 </video>
               </div>

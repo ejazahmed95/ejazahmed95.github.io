@@ -161,32 +161,32 @@
       {
         "title": "Numbers Munchers",
         "screenshots": [
-          "images/game_projects/test.png"
+          "images/projects/gamejam.jpg"
         ],
         "videos": [ 
           {
-            "link": "videos/intro.mp4",
+            "link": "videos/projects/gamejam.mp4",
             "description": "gameplay"
           }
         ],
-        "description": "This is a digital version of the board game othello.",
+        "description": "This was developed as a part of game jam",
         "credits": {
-          "time": "8 Hours",
+          "time": "5 Hours",
           "engine": "Unity 2021.3"
         }
       },
       {
         "title": "Fia Maze",
         "screenshots": [
-          "images/game_projects/test.png"
+          "images/projects/pcg.jpg"
         ],
         "videos": [ 
           {
-            "link": "videos/intro.mp4",
+            "link": "videos/projects/fiamaze.mp4",
             "description": "gameplay"
           }
         ],
-        "description": "This is a digital version of the board game othello.",
+        "description": "This is a procedural maze generation algorithm. It used a new hex coordinate system using the axial coordinates",
         "credits": {
           "time": "8 Hours",
           "engine": "Unity 2021.3"
@@ -195,15 +195,15 @@
       {
         "title": "Mini Knight",
         "screenshots": [
-          "images/game_projects/test.png"
+          "images/projects/miniknight.png"
         ],
         "videos": [ 
           {
-            "link": "videos/intro.mp4",
+            "link": "videos/projects/miniknight.mp4",
             "description": "gameplay"
           }
         ],
-        "description": "This is a digital version of the board game othello.",
+        "description": "This is a metroidvania game.",
         "credits": {
           "time": "8 Hours",
           "engine": "Unity 2021.3"
